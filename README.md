@@ -18,7 +18,7 @@ Excess inventory ties up capital while insufficient inventory increases the risk
 
 ## Project Files
 
-[Presentation](./BAN%20517%20Mod4.pptx)
+[Presentation](./BAN%20517%20Mod4.pdf)
 
 [Supporting Data](./ProjectData.xlsx)
 
