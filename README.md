@@ -16,11 +16,23 @@ Excess inventory ties up capital while insufficient inventory increases the risk
 - Presentation
 - Supporting Excel workbook
 
-## Project Files
+## Project Files and Data Screenshots
 
 [Presentation](./BAN%20517%20Mod4.pdf)
 
 [Supporting Data](./ProjectData.xlsx)
+
+<img width="684" height="796" alt="image" src="https://github.com/user-attachments/assets/e66c19e6-bc15-4eab-978e-f7a2257b1f6d" />
+
+<img width="1128" height="798" alt="image" src="https://github.com/user-attachments/assets/52c0e491-69b8-456f-8ad6-f9472b3ccf62" />
+
+<img width="859" height="807" alt="image" src="https://github.com/user-attachments/assets/04920948-4b11-46aa-b0af-ff325ead0543" />
+
+<img width="1515" height="810" alt="image" src="https://github.com/user-attachments/assets/6d5dcad1-28de-4d7e-adf5-d4d0151e69cb" />
+
+<img width="967" height="815" alt="image" src="https://github.com/user-attachments/assets/b4562aed-1641-41fc-9f72-3cb78104564f" />
+
+<img width="1397" height="529" alt="image" src="https://github.com/user-attachments/assets/993f959a-d257-4cb9-8df2-d8fa807b7b3f" />
 
 ## Methodology
 
